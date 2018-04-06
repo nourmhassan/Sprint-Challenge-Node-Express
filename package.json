@@ -1,0 +1,27 @@
+{
+  "name": "Sprint-Challenge-Node-Express",
+  "version": "1.0.0",
+  "description": "Please open the `Review.md` file and answer the questions.",
+  "main": "knexfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nourmhassan/Sprint-Challenge-Node-Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nourmhassan/Sprint-Challenge-Node-Express/issues"
+  },
+  "homepage": "https://github.com/nourmhassan/Sprint-Challenge-Node-Express#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "knex": "^0.14.4",
+    "nodemon": "^1.17.3",
+    "sqlite3": "^4.0.0"
+  }
+}
